@@ -1,0 +1,1032 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The prologue to Calistho with the chorus between the acts.</title>
+            <author>Crown, Mr. (John), 1640?-1712.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35295</idno>
+            <idno type="STC">Wing C7401</idno>
+            <idno type="STC">ESTC R31668</idno>
+            <idno type="EEBO-CITATION">12243830</idno>
+            <idno type="OCLC">ocm 12243830</idno>
+            <idno type="VID">56841</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35295)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56841)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1502:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The prologue to Calistho with the chorus between the acts.</title>
+                  <author>Crown, Mr. (John), 1640?-1712.</author>
+               </titleStmt>
+               <extent>[2], 21 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>MDCLXXV [1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Without music.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56841:1" rendition="simple:additions"/>
+            <p>THE PROLOGUE TO CALISTHO, WITH THE CHORUS'S BETWEEN THE ACTS.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year MDCLXXV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="prologue">
+            <pb facs="tcp:56841:2"/>
+            <pb n="1" facs="tcp:56841:2"/>
+            <head>PROLOGUE. <hi>The Curtain is drawn up, and there ap<g ref="char:EOLhyphen"/>pears a Nymph leaning on an <g ref="char:V">Ʋ</g>rne, re<g ref="char:EOLhyphen"/>preſenting the River</hi> Thames, <hi>attended by two Nymphs, repreſenting Peace and Plenty: Near her are the four Parts of the World ſeeming to make offerings to Her: On the opening of the Scene, lamenting voices are heard on both ſides of the Theatre, at which, the Nymph of the River ſeems affrigtned.</hi>
+            </head>
+            <sp>
+               <speaker>Voices within.</speaker>
+               <p>
+                  <hi>Fly, Fly, Help, Oh! Help or we dye.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tha.</speaker>
+               <l>WHat mournful cries are theſe on ev'ry ſide!</l>
+               <l>The Winds waſt nothing to this Iſland o're</l>
+               <l>But the complainings of ſome Neighbr'ing Shore,</l>
+               <l>And all the Ecchoes are in groans employ'd.</l>
+               <l>The fair
+<note n="*" place="margin">London <hi>anciently ſo called.</hi>
+                  </note> 
+                  <hi>Auguſta</hi> too, I weeping ſee,</l>
+               <l>Though none ſo fair, ſo rich, ſo great as She;</l>
+               <l>Alas! my Fears encreaſe:</l>
+               <l>You gentle Nymphs of Plenty and of Peace,</l>
+               <pb n="2" facs="tcp:56841:3"/>
+               <l>Shall now go ſeek ſome other Shore.</l>
+               <l>And you that with your Preſents wait,</l>
+               <l>Shall bring your gifts no more.</l>
+            </sp>
+            <sp>
+               <speaker>Plen.</speaker>
+               <l>I to no other Dwelling will betake,</l>
+            </sp>
+            <sp>
+               <speaker>Pea.</speaker>
+               <l>Thy beautious Streams I never will forſake,</l>
+            </sp>
+            <sp>
+               <speaker>Euro.</speaker>
+               <l>And we our Preſents ſtill will make.</l>
+            </sp>
+            <sp>
+               <speaker>Om.</speaker>
+               <l>We our preſents ſtill will make.</l>
+            </sp>
+            <sp>
+               <speaker>Ple.</speaker>
+               <l>Thy ſtores with all my Plenty ſhall be fill'd.</l>
+            </sp>
+            <sp>
+               <speaker>Pea.</speaker>
+               <l>My Halcion on thy Banks her Neſt ſhall build.</l>
+            </sp>
+            <sp>
+               <speaker>Eur.</speaker>
+               <l>Thou ſhalt in all my nobleſt Arts be skill'd.</l>
+            </sp>
+            <sp>
+               <speaker>Aſi.</speaker>
+               <l>My Jewels ſhall adorn no Brow but Thine.</l>
+            </sp>
+            <sp>
+               <speaker>Amer.</speaker>
+               <l>Thy Lovers in my Gold ſhall ſhine.</l>
+            </sp>
+            <sp>
+               <speaker>Afri.</speaker>
+               <l>Thou for thy Slaves, ſhalt have theſe</l>
+               <l>Scorched Sons of mine.</l>
+            </sp>
+            <sp>
+               <speaker>Pea. Pleu.</speaker>
+               <l>Thy beautious ſtreams we never will forſake.</l>
+            </sp>
+            <sp>
+               <speaker>Euro. Aſi. Afr. Amer.</speaker>
+               <l>And we our preſents ſtill will make.</l>
+            </sp>
+            <sp>
+               <speaker>Om.</speaker>
+               <l>We our preſents ſtill will make.</l>
+            </sp>
+            <sp>
+               <speaker>Pea.</speaker>
+               <l>What ſhould ſo much Beauty fear,</l>
+               <l>Round this Iſle the Heavens appear</l>
+               <l>Like your own ſtreams, all undiſturb'd and clear:</l>
+            </sp>
+            <pb n="3" facs="tcp:56841:3"/>
+            <sp>
+               <speaker>Tha.</speaker>
+               <l>Theſe beautious Nymphs unfrightned too,</l>
+               <l>Not minding what on other Shores they do,</l>
+               <l>Their innocent delights purſue.</l>
+            </sp>
+            <sp>
+               <speaker>Pea.</speaker>
+               <l>See, They (void of grief or fear)</l>
+               <l>Come to entertain you here.</l>
+            </sp>
+            <stage>Enter Nymphs, who Dance, and go off.</stage>
+            <sp>
+               <speaker>Tha.</speaker>
+               <l>Oh! now my Spirits I recover,</l>
+               <l>I've wak'd the <hi>Genius</hi> of this Iſle, my War-like Lover.</l>
+            </sp>
+            <stage>
+               <hi>Enter the</hi> Genius <hi>of</hi> England.</stage>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>What cries are theſe diſturb my pleaſing Reſt?</l>
+            </sp>
+            <sp>
+               <speaker>Tha.</speaker>
+               <l>'Tis I, (my Love) 'tis I, thy ayde requeſt.</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>Is it my Nymph, what doſt thou fear?</l>
+            </sp>
+            <sp>
+               <speaker>Tha.</speaker>
+               <l>Does not my Love ſad cries round him hear?</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>Wilt thou thy fear at every ſhriek proclaim?</l>
+            </sp>
+            <sp>
+               <speaker>Tha.</speaker>
+               <l>Am I alone to blame?</l>
+               <l>Do you not ſee <hi>Augusta,</hi> rich and fair,</l>
+               <l>(Though to her Lap, I all my Treaſure bear)</l>
+               <l>Will for no comfort ſtay her Tears?</l>
+               <l>
+                  <hi>Auguſta</hi> is inclin'd to fears.</l>
+               <pb n="4" facs="tcp:56841:4"/>
+               <l>Be ſhe full, or be ſhe wayning,</l>
+               <l>Still <hi>Auguſta</hi> is complaining.</l>
+               <l>Give her all you can to eaſe Her,</l>
+               <l>You ſhall never, never pleaſe Her.</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>Theſe fears do not belong to Her nor You;</l>
+               <l>
+                  <hi>Europe</hi> only ſhould lament,</l>
+               <l>The Nymphs of his fair Continent.</l>
+               <stage>Some Gyants now purſue.</stage>
+               <l>But this ſweet Iſle no Monſter can invade.</l>
+            </sp>
+            <sp>
+               <speaker>Tha.</speaker>
+               <l>Oh ſend thoſe poor diſtreſſed Nymphs ſome Aid.</l>
+            </sp>
+            <sp>
+               <speaker>Eur.</speaker>
+               <l>From the mild power of this happy place.</l>
+               <l>Who is inclin'd,</l>
+               <l>To make the World as peaceful as his mind,</l>
+               <l>They have already gain'd the grace:</l>
+               <l>Two Heroes of his own coeleſtial Race</l>
+               <l>Are ſent; the one to Triumph o're the Seas,</l>
+               <l>And all the watery Divinities.</l>
+               <l>The other, Monſters of the Land to quell,</l>
+               <l>And make the Nymphs in ſafety dwell.</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>The firſt, in War has all perfections gain'd,</l>
+               <l>That can by humane nature be attain'd:</l>
+               <pb n="5" facs="tcp:56841:4"/>
+               <l>The ſecond promiſes, to be</l>
+               <l>All that in the firſt we ſee.</l>
+            </sp>
+            <sp>
+               <speaker>Eur.</speaker>
+               <l>
+                  <hi>Mars</hi> to the firſt does all his glory lend:</l>
+               <l>The ſecond Beauty, Youth, and Love attend.</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>Both in high perfections ſhine:</l>
+               <l>Valour, Glory, race Divine:</l>
+               <l>Wait a while, and you ſhall ſee</l>
+               <l>Both return with Victory.</l>
+            </sp>
+            <sp>
+               <speaker>Pea.</speaker>
+               <l>Hark, hark; the Triumph's near,</l>
+               <l>And ſee! they both already crown'd appear.</l>
+            </sp>
+            <stage>Enter One crown'd with a Naval Crown, attended by Sea-gods and Tritons.</stage>
+            <sp>
+               <l>Rejoyce you watry Deities:</l>
+               <l>The mighty Monſters of the Seas,</l>
+               <l>This valiant Prince has ſlain.</l>
+               <l>The God of this fair Iſle ſhall now,</l>
+               <l>Command (as all his Right allow)</l>
+               <l>The Empire of the Mayne.</l>
+            </sp>
+            <pb n="6" facs="tcp:56841:5"/>
+            <stage>Enter one Crown'd with a Mural Crown, attended by Warriours.</stage>
+            <sp>
+               <l>Ye Gods and Nymphs of Plains and Groves;</l>
+               <l>Of Springs and Streams, enjoy your Loves:</l>
+               <l>This youthful <hi>Hero</hi> has ſubdu'd,</l>
+               <l>The Satyrs now of ev'ry Wood:</l>
+               <l>Has kill'd or ta'n e'm all for Slaves,</l>
+               <l>And chac'd the Gyants from their Caves.</l>
+               <l>
+                  <hi>Cho. of all.</hi> Let us both their praiſes ſing,</l>
+               <l>Whilſt we both in Triumph bring,</l>
+               <l>Let us all contend to grace e'm</l>
+               <l>With our loud, and joyfull'ſt thanks,</l>
+               <l>Whilſt upon the flow'ry banks,</l>
+               <l>Of this beautious Nymph we place e'm.</l>
+            </sp>
+            <stage>Two Entries are Danc'd: One of Sea-gods and the other of Warriours.</stage>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>Now welcom Heroes to my bleſt abode,</l>
+               <l>And to my Nymph belov'd by ev'ry God.</l>
+            </sp>
+            <sp>
+               <speaker>Tha.</speaker>
+               <l>Welcom to my Love and me,</l>
+               <l>Now we all ſhall happy be.</l>
+            </sp>
+            <sp>
+               <speaker>Cho.</speaker>
+               <l>Now we all ſhall happy be.</l>
+            </sp>
+            <pb n="7" facs="tcp:56841:5"/>
+            <stage>A Temple of Fame appears.</stage>
+            <sp>
+               <speaker>Ple.</speaker>
+               <l>Now you whoſe valour gives the World repoſe,</l>
+               <l>See what Fame on you beſtows.</l>
+               <l>Her ſhining Temple ſhall preſerve your names,</l>
+               <l>And thence her Trumpet your renown proclaims.</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>To our Divinity now let us go,</l>
+               <l>And at his Feet your Crowns and Trophies throw.</l>
+            </sp>
+            <sp>
+               <speaker>Eur.</speaker>
+               <l>I will my thanks in Offerings proclaim.</l>
+            </sp>
+            <sp>
+               <speaker>Aſi.</speaker>
+               <l>I'le lend you Spice.</l>
+            </sp>
+            <sp>
+               <speaker>Amer.</speaker>
+               <l>I Gold.</l>
+            </sp>
+            <sp>
+               <speaker>Afr.</speaker>
+               <l>And I the ſame.</l>
+            </sp>
+            <sp>
+               <speaker>Tha.</speaker>
+               <l>I'le be your Guide.</l>
+               <l>My Streams beneath his Palace ſlide.</l>
+               <l>There it is not far before you,</l>
+               <l>Pleaſure, Arts, Religion, Glory,</l>
+               <l>Warm'd by his propitious Smile,</l>
+               <l>Flouriſh there, and bleſs this Iſle.</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>But ſtay!
+<note place="margin">Turning to the King and Queen.</note> what wonder does my Spi<g ref="char:EOLhyphen"/>rit ſeize?</l>
+               <l>See! here are both the great Divinities.</l>
+            </sp>
+            <sp>
+               <speaker>Tha.</speaker>
+               <l>The God and Goddeſs too of this bleſs'd Iſle!</l>
+               <l>Chaſt Beauty in her aſpect ſhines,</l>
+               <l>And Love in his does ſmile.</l>
+            </sp>
+            <pb n="8" facs="tcp:56841:6"/>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>Quickly <hi>(Heroes)</hi> as 'tis meet,</l>
+               <l>Throw your Trophies at their Feet.</l>
+               <l>Fall down, and adore e'm.</l>
+               <l>Whilſt with ſpeed we hither call,</l>
+               <l>The Gods of neighbr'ing Groves, and all</l>
+               <l>Their Nymphs to dance before e'm.</l>
+            </sp>
+            <stage>Enter Rural Gods and Nymphs, and Dance.</stage>
+            <stage>When the Prologue is done, and all gone off the Stage, Enter Two, who ſing this Song.</stage>
+            <l>
+               <hi>Now for the Play, the Prologue is done,</hi>
+            </l>
+            <l>
+               <hi>The Dancing is o're, and the Singers are gone.</hi>
+            </l>
+            <l>
+               <hi>The Ladies ſo fine, and ſo fair it ſurpaſſes,</hi>
+            </l>
+            <l>
+               <hi>Are dreſs'd, and have all tak'n leave of their glaſſes.</hi>
+            </l>
+            <l>
+               <hi>Where are the Slaves ſhould make ready the Stage?</hi>
+            </l>
+            <l>
+               <hi>Here, here are the ſlaves ſhould make ready the Stage.</hi>
+            </l>
+            <l>An Entry of Carpenters.</l>
+            <stage>The Song to the Minovet, Danced in the Prologue, to be ſung by Shepheards.</stage>
+            <l>Happy we Swaines, who are young and have leiſure,</l>
+            <l>And but the wit our advantage to know.</l>
+            <l>We do not need either Fortune or Treaſure,</l>
+            <l>Love and Delight with the youthful will go.</l>
+            <pb n="9" facs="tcp:56841:6"/>
+            <l>Coyeſt of Nymphs may be won to the pleaſure,</l>
+            <l>By Shepheards who love, and have youth to beſtow.</l>
+            <l>Then whilſt we are young, let's to pleaſure betake us,</l>
+            <l>Each Swain with his Nymph, and each Nymph with her Swain</l>
+            <l>Embrace, and be happy as Loving can make us,</l>
+            <l>And ſo make the moſt of our youth that we can.</l>
+            <div n="1" type="chorus">
+               <head>
+                  <hi>Chorus</hi> after the Firſt Act.</head>
+               <stage>
+                  <hi>Enter</hi> Strephon, Corydon, Daphne, Sylvia. Cho. <hi>of Shepheards.</hi>
+               </stage>
+               <sp>
+                  <speaker>Str.</speaker>
+                  <l>Hark, hark, I hear the merry Hunters Horn,</l>
+               </sp>
+               <sp>
+                  <speaker>Cory.</speaker>
+                  <l>The ſound from yonder Hill by winds is born.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>
+                     <hi>Diana,</hi> and her Nymphs are all that way A Hunting gone</l>
+               </sp>
+               <sp>
+                  <speaker>Syl.</speaker>
+                  <l>So ſoon e're break of day.</l>
+                  <l>Let e'm let e'm go.</l>
+               </sp>
+               <sp>
+                  <speaker>Chor.</speaker>
+                  <l>Lovers, better pleaſures know.</l>
+               </sp>
+               <sp>
+                  <speaker>Stre.</speaker>
+                  <l>Let the cold Nymphs run dabling in the Dew,</l>
+                  <l>Kind Love to warmer pleaſures us invites</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>I do not envy their delights,</l>
+                  <l>Whilſt my dear <hi>Strephon</hi> does continue true.</l>
+               </sp>
+               <pb n="10" facs="tcp:56841:7"/>
+               <sp>
+                  <speaker>Cor.</speaker>
+                  <l>Whilſt thus ſevere my <hi>Sylvia</hi> does remain,</l>
+                  <l>I envy not the Hunters, but the ſlain.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>Poor <hi>Corydon,</hi> thy flame remove,</l>
+                  <l>I pity thee, but cannot love.</l>
+                  <l>Yet I own, I have ſomething in every Vein;</l>
+                  <l>Which moves me to Love, could I meet with a Swain,</l>
+                  <l>Who were to my mind, and would love me again.</l>
+               </sp>
+               <sp>
+                  <speaker>Str.</speaker>
+                  <l>See Shepheards the day is begun:</l>
+                  <l>Come, with our ſports let's welcom the Sun.</l>
+               </sp>
+               <stage>Shepheards Dance to this following Song.</stage>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>
+                     <hi>Kind Lovers, Love on,</hi>
+                  </l>
+                  <l>
+                     <hi>Leaſt the World be undone,</hi>
+                  </l>
+                  <l>
+                     <hi>And Mankind be lost by Degrees.</hi>
+                  </l>
+                  <l>
+                     <hi>For if all from their Loves,</hi>
+                  </l>
+                  <l>
+                     <hi>Should go wander in Groves,</hi>
+                  </l>
+                  <l>
+                     <hi>There ſoon would be nothing but Trees.</hi>
+                  </l>
+               </sp>
+               <stage>Exeunt omnes.</stage>
+            </div>
+            <div n="2" type="chorus">
+               <pb n="11" facs="tcp:56841:7"/>
+               <head>
+                  <hi>Chorus</hi> after the Second Act.</head>
+               <stage>Enter <hi>Strephon, Corydon, Daphne, Sylvia, Chorus</hi> of Shepheards. The Scene near the Vale, whither the Winds carryed <hi>Caliſtho.</hi>
+               </stage>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <l>Come Shepheards, quickly haſten to the ſhades,</l>
+                  <l>The Sun with all his force the Air invades.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>The open plains let us forſake,</l>
+                  <l>Here is a Grove will pity of us take.</l>
+                  <l>The Trees in gentle whiſperings invite us,</l>
+                  <l>Here are all things to delight us.</l>
+               </sp>
+               <sp>
+                  <speaker>Str.</speaker>
+                  <l>Theſe pleaſures none can well improve,</l>
+                  <l>But we (my Shepherdeſs) who love.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>Theſe pleaſures none can well improve,</l>
+                  <l>But we (my deareſt Swain) who love.</l>
+               </sp>
+               <sp>
+                  <speaker>Corid.</speaker>
+                  <l>Oh happy Shepheard, and kind Shepherdeſs,</l>
+                  <l>Whom all the Gods, above expreſſion bleſs.</l>
+                  <l>Here <hi>Sylvia</hi> cruel, I forlorn,</l>
+                  <l>Torment our ſelves each day.</l>
+                  <l>Whilſt I with grief, and ſhe with ſcorn,</l>
+                  <l>Waſt all our youth away.</l>
+               </sp>
+               <pb n="12" facs="tcp:56841:8"/>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>Alas poor Shepheard! the fault is not mine,</l>
+                  <l>That to thy paſſion I do not incline,</l>
+                  <l>I wiſh thy love and deſert were more moving,</l>
+                  <l>For I confeſs I fain would be loving.</l>
+               </sp>
+               <stage>She pawſes and ſtarts.</stage>
+               <sp>
+                  <l>What (on the ſuddain) do I ayle?</l>
+                  <l>Gentle winds from yonder Vale,</l>
+                  <l>On the ſuddain warm my Heart.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>Oh! I'm wounded: Oh! I ſmart.</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Cupids.</stage>
+               <sp>
+                  <speaker>Sire.</speaker>
+                  <l>Sure ſome God is here deſcended,</l>
+                  <l>With a Train of Loves attended.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>Oh! I'm wounded: Oh! I Love.</l>
+                  <l>This is ſome inchanted Grove.</l>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <l>This is ſome inchanted Grove.</l>
+               </sp>
+               <stage>Cupids <hi>Dance, and go off.</hi>
+               </stage>
+               <sp>
+                  <speaker>Stre.</speaker>
+                  <l>Oh! my Soul is in a flame.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>I muſt fly or loſe my Fame,</l>
+               </sp>
+               <sp>
+                  <speaker>Cor.</speaker>
+                  <l>O what raging Paſſions fill me!</l>
+                  <l>Love me <hi>Sylvia</hi> now, or kill me.</l>
+               </sp>
+               <pb n="13" facs="tcp:56841:8"/>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>Oh! I love, and long to ſhew it,</l>
+                  <l>But my Shepheard ſhall not know it.</l>
+               </sp>
+               <sp>
+                  <speaker>Stre.</speaker>
+                  <l>Oh! my <hi>Daphne!</hi> now, or never,</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>
+                     <hi>Strephon,</hi> fly my ſight for ever.</l>
+               </sp>
+               <sp>
+                  <speaker>Corid.</speaker>
+                  <l>I can no longer <hi>Sylvia</hi> wait thee,</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>
+                     <hi>Corydon,</hi> be gone, I hate thee.</l>
+               </sp>
+               <sp>
+                  <speaker>Chor.</speaker>
+                  <l>Curſe on this inchanted Grove.</l>
+                  <l>We are all undone with Love.</l>
+                  <l>We are all undone with Love.</l>
+                  <l>Fly from this inchanted Grove.</l>
+               </sp>
+               <stage>Exeunt omnes.</stage>
+            </div>
+            <div n="3" type="chorus">
+               <head>
+                  <hi>Chorus</hi> after the Third Act.</head>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>
+                     <hi>Corydon</hi> is a noble Swain,</l>
+                  <l>And too long has felt diſdain.</l>
+                  <l>But ſince ſcorn I once did ſhow,</l>
+                  <l>My Love I'm too proud to let him know.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph</speaker>
+                  <l>Ah <hi>Sylvia! Sylvia!</hi> my Heart (like yours)</l>
+                  <l>Pain from fooliſh Pride endures.</l>
+                  <l>I angry with <hi>Strephon</hi> to day did appear,</l>
+                  <l>And now long to reconcile:</l>
+                  <l>Yet in pride for a time will ſeem ſevere,</l>
+                  <l>Though it breaks my Heart the while.</l>
+               </sp>
+               <pb n="14" facs="tcp:56841:9"/>
+               <stage>
+                  <hi>Enter</hi> Strephon, Corydon, Chorus <hi>of Shepheards.</hi> Daphne <hi>and</hi> Sylvia <hi>offer to go as they Enter.</hi>
+               </stage>
+               <sp>
+                  <speaker>Stre.</speaker>
+                  <l>Oh whither does my lovely <hi>Daphne</hi> fly?</l>
+               </sp>
+               <sp>
+                  <speaker>Cory.</speaker>
+                  <l>How long will <hi>Sylvia Corydon</hi> deny?</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>It is will my kindneſs to remove:</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>And I ſhall never, never Love.</l>
+               </sp>
+               <stage>
+                  <hi>Daphne</hi> and <hi>Sylvia</hi> Exeunt.</stage>
+               <sp>
+                  <speaker>Stre.</speaker>
+                  <l>Oh! what has chang'd my <hi>Daphne's</hi> mind?</l>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <l>Oh falſe, and cruel Woman-kind!</l>
+               </sp>
+               <sp>
+                  <speaker>1 <hi>Shep.</hi>
+                  </speaker>
+                  <l>Come Shepheards do not complain.</l>
+                  <l>See, ſee yonder a merry Train,</l>
+                  <l>Of Gypſies dancing over the Plain.</l>
+                  <l>Call e'm ſtraight, call e'm ſtraight to comfort theſe poor Swains.</l>
+               </sp>
+               <stage>An Entry of Gypſies.</stage>
+               <l>No longer complain,</l>
+               <l>If your Loves ſhew diſdain,</l>
+               <l>Be proud, and diſdain e'm again.</l>
+               <l>The Fools you will find</l>
+               <l>Will be glad to be kind,</l>
+               <l>When they once are deſpiſed by the Men.</l>
+               <stage>Gypſies go off.</stage>
+               <pb n="15" facs="tcp:56841:9"/>
+               <sp>
+                  <speaker>1 <hi>Shep.</hi>
+                  </speaker>
+                  <l>Hark, hark! in yonder woods the Satyrs play,</l>
+                  <l>The Ecchoes bring their laughs this way.</l>
+                  <l>They with ſome pleaſant ſport are pleas'd.</l>
+                  <l>The wanton Demy-beaſts ſome Nymphs have ſeiz'd.</l>
+               </sp>
+               <stage>Enter two Shepheards.</stage>
+               <sp>
+                  <l>Laugh Shepheards, Laugh and ſing.</l>
+                  <l>Joyful Tydings now we bring.</l>
+                  <l>The fair <hi>Caliſtho</hi> is diſgrac'd;</l>
+                  <l>Gods and Mortals hate the Chaſt.</l>
+               </sp>
+               <stage>An Entry of Satyrs.</stage>
+               <sp>
+                  <speaker>Stre.</speaker>
+                  <l>All this to me but little eaſe does give,</l>
+               </sp>
+               <sp>
+                  <speaker>Coryd.</speaker>
+                  <l>All joys are dead to me, why do I live?</l>
+               </sp>
+               <sp>
+                  <speaker>Stre.</speaker>
+                  <l>In death alone we eaſe ſhall find.</l>
+               </sp>
+               <sp>
+                  <speaker>Coryd.</speaker>
+                  <l>In death alone we eaſe ſhall find.</l>
+               </sp>
+               <sp>
+                  <speaker>Chor. of all.</speaker>
+                  <l>Oh falſe and cruel Woman-kind!</l>
+               </sp>
+               <stage>Exeunt omnes.</stage>
+            </div>
+            <div n="4" type="chorus">
+               <pb n="16" facs="tcp:56841:10"/>
+               <head>
+                  <hi>Chorus</hi> in the Fourth Act.</head>
+               <stage>Enter <hi>Daphne</hi> and <hi>Sylvia.</hi>
+               </stage>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>Oh! whither are our poor deſpairing Lover, gone?</l>
+                  <l>I fear I have my <hi>Strephon</hi> ſlain,</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>And I my <hi>Corydon.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>Oh my ſorrow! Oh my pain!</l>
+                  <l>Could I my <hi>Strephon</hi> find:</l>
+                  <l>Could I my deareſt <hi>Strephon</hi> find</l>
+                  <l>I'd never be unkind.</l>
+                  <l>I'd never be unkind to him again.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>And I, my Love would paſſionately own,</l>
+                  <l>Could I find my <hi>Corydon.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>Do I Dream? Do I Rave?</l>
+                  <l>Look towards yonder Cave.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>Our Shepheards come from yonder Cave.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>Our Shepheards come from yonder Cave.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>Our Shepheards come from yonder Cave.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>From empty pride I'le be free,</l>
+                  <l>It ſhall bring no more miſchief upon me,</l>
+                  <l>Since I Love as well as he,</l>
+                  <l>I'le not hazard my joy,</l>
+                  <l>In being fooliſhly coy,</l>
+                  <l>It had like to have undone me.</l>
+               </sp>
+               <pb n="17" facs="tcp:56841:10"/>
+               <stage>Daphne <hi>and</hi> Sylvia <hi>go and meet</hi> Strephon <hi>and</hi> Corydon: <hi>each brings in her Shep<g ref="char:EOLhyphen"/>heard.</hi>
+               </stage>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>Dear <hi>Strephon,</hi> give deſpairing o're,</l>
+                  <l>Unkindneſſes are gone,</l>
+                  <l>I never will be cruel to thee more.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>Nor I to <hi>Corydon.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Cory.</speaker>
+                  <l>O what kind God does <hi>Sylvia's</hi> hate remove?</l>
+               </sp>
+               <sp>
+                  <speaker>Str.</speaker>
+                  <l>And made at length my <hi>Daphne</hi> grateful prove?</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>The God of Love.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>The God of Love.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>The gentle God of Love.</l>
+               </sp>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>The gentle God of Love.</l>
+               </sp>
+               <sp>
+                  <speaker>Coryd.</speaker>
+                  <l>Oh happy Tydings!</l>
+               </sp>
+               <sp>
+                  <speaker>Stre.</speaker>
+                  <l>Bleſſed hour!</l>
+                  <l>Ever kind and gentle Pow'r.</l>
+               </sp>
+               <sp>
+                  <speaker>Cory.</speaker>
+                  <l>Ever kind and gentle Pow'r.</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Chorus <hi>of Shepheards, follow'd by</hi> Bacchuſſes.</stage>
+               <sp>
+                  <speaker>Chor.</speaker>
+                  <l>Joy Shepheards Joy! <hi>Diana's</hi> diſgrac'd,</l>
+                  <l>Love has had to day Revenge on the Chaſt.</l>
+                  <pb n="18" facs="tcp:56841:11"/>
+                  <l>The <hi>Bacchuſſes</hi> here our mirth to improve,</l>
+                  <l>Come hither to follow the Triumphs of Love.</l>
+                  <l>No mirth without <hi>Bacchus,</hi> nor joy without Love.</l>
+               </sp>
+               <stage>
+                  <hi>An Entry of</hi> Bacchuſſes.</stage>
+               <stage>After the Dance.</stage>
+               <sp>
+                  <speaker>Cor.</speaker>
+                  <l>
+                     <hi>Since all our grief thus joyfully ends,</hi>
+                  </l>
+                  <l>
+                     <hi>Let each Shepheardeſs make her Shepheard amends</hi>
+                  </l>
+                  <l>
+                     <hi>To the Temple let's go,</hi>
+                  </l>
+                  <l>
+                     <hi>And then we will ſhow,</hi>
+                  </l>
+                  <l>
+                     <hi>What every Lover, by Loving intends.</hi>
+                  </l>
+               </sp>
+               <stage>Exeunt omnes.</stage>
+            </div>
+            <div n="5" type="chorus">
+               <head>
+                  <hi>Chorus</hi> after the Fifth Act.</head>
+               <stage>
+                  <hi>Enter</hi> Strephon, Corydon, Daphne, Sylvia, Chorus <hi>of Shepheards, as from the Temple.</hi>
+               </stage>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <l>Happy Lovers! happy Live,</l>
+                  <l>And all the Gods their bleſſings give.</l>
+               </sp>
+               <sp>
+                  <speaker>Cor.</speaker>
+                  <l>Lead along, and with Delight,</l>
+                  <l>Let us haſten on the Night.</l>
+               </sp>
+               <pb n="19" facs="tcp:56841:11"/>
+               <stage>
+                  <hi>Enter two</hi> African <hi>Women.</hi>
+               </stage>
+               <sp>
+                  <speaker>Stre.</speaker>
+                  <l>What Viſion's this is come to greet us?</l>
+               </sp>
+               <sp>
+                  <speaker>Cory.</speaker>
+                  <l>See! the Night is come to meet us.</l>
+               </sp>
+               <sp>
+                  <speaker>1 <hi>Afr.</hi>
+                  </speaker>
+                  <l>Stay gentle Swains be not afraid,</l>
+                  <l>To ſee our Faces hid in ſhade.</l>
+                  <l>We, but lately, were as fair,</l>
+                  <l>As your Shepheardeſſes are.</l>
+                  <l>Did not a frantick youth of late,</l>
+                  <l>O'reſet the Chariot of the Sun?</l>
+               </sp>
+               <sp>
+                  <speaker>Cory.</speaker>
+                  <l>He did, and his deſerved Fate</l>
+                  <l>He met when he had done.</l>
+               </sp>
+               <sp>
+                  <speaker>1 <hi>Afr.</hi>
+                  </speaker>
+                  <l>It is he that hath undone us:</l>
+                  <l>He powr'd whole ſtreams</l>
+                  <l>Of melting Beams,</l>
+                  <l>Red, and glowing hot upon us.</l>
+                  <l>And now we range the World around,</l>
+                  <l>To ſee if our loſt Beauty can be found.</l>
+               </sp>
+               <pb n="20" facs="tcp:56841:12"/>
+               <stage>
+                  <hi>Enter a Third</hi> African <hi>Woman.</hi>
+               </stage>
+               <sp>
+                  <speaker>3 <hi>Afr.</hi>
+                  </speaker>
+                  <l>Rejoyce, Rejoyce: our Beauty's found,</l>
+                  <l>Our lovely White and Red,</l>
+                  <l>To two chaſt Nymphs of <hi>Cynthia's</hi> Train is fled.</l>
+                  <l>And they muſt Stars be crown'd:</l>
+                  <l>And now inſtead of what we ſought,</l>
+                  <l>Our black with us muſt fair be thought.</l>
+               </sp>
+               <sp>
+                  <speaker>All three.</speaker>
+                  <l>This happy Fate, who could Divine?</l>
+                  <l>Our Beauty then in Heav'n muſt ſhine.</l>
+               </sp>
+               <sp>
+                  <speaker>1 <hi>Afr.</hi>
+                  </speaker>
+                  <l>No loſers we ſhall prove,</l>
+                  <l>By parting with our Red and White;</l>
+                  <l>If Black will ſerve the turn of Love;</l>
+                  <l>For Beauty's made for Loves delight.</l>
+               </sp>
+               <sp>
+                  <speaker>4 <hi>Afr.</hi>
+                  </speaker>
+                  <l>See! See! the Nymphs are coming here.</l>
+               </sp>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <l>But Oh! what glorious Apparition's near?</l>
+                  <l>The Clouds amazing Glories gild:</l>
+                  <l>All the Clouds with Gods are fill'd.</l>
+                  <l>And all the Gods appear.</l>
+               </sp>
+               <pb n="21" facs="tcp:56841:12"/>
+               <stage>Caliſtho <hi>and</hi> Nyphe <hi>enter under a Canopy, ſupported by</hi> Africans; <hi>Immediately upon their entrante a Heav'n is diſco<g ref="char:EOLhyphen"/>ver'd, fill'd with Gods and Goddeſſes.</hi>
+               </stage>
+               <stage>The whole, concludes with an Entry of <hi>Africans,</hi> and this Song.</stage>
+               <sp>
+                  <speaker>Daph.</speaker>
+                  <l>
+                     <hi>Must theſe be Starrs? and to Heaven remove,</hi>
+                  </l>
+                  <l>
+                     <hi>Before they have taſted the pleaſures of Love.</hi>
+                  </l>
+                  <l>
+                     <hi>That the Gods ſo ill, ſuch Beauty ſhould uſe!</hi>
+                  </l>
+                  <l>
+                     <hi>What mighty Cost muſt Nature looſe?</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Syl.</speaker>
+                  <l>
+                     <hi>I cannot ſo much Beauty ſhow,</hi>
+                  </l>
+                  <l>
+                     <hi>But what I have, I'le better bestow.</hi>
+                  </l>
+                  <l>
+                     <hi>Not upon Gods, or Glories above,</hi>
+                  </l>
+                  <l>
+                     <hi>Or empty Renown, but Pleaſure and Love.</hi>
+                  </l>
+                  <l>
+                     <hi>All pleaſure but Love, from our Hearts we'l be chacing,</hi>
+                  </l>
+                  <l>
+                     <hi>We'l kindle our ſelves into Starrs with embracing,</hi>
+                  </l>
+                  <l>
+                     <hi>We'l every moment our pleaſures renew,</hi>
+                  </l>
+                  <l>
+                     <hi>Our Loves ſhall be flaming, and laſting and true.</hi>
+                  </l>
+               </sp>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:56841:13"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
